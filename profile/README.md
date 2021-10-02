@@ -12,3 +12,6 @@ lot to us!
 
 If you're excited to use Dart on the Web, we'd encourage you to look at
 [Flutter Web](https://flutter.dev/web).
+
+If you'd like to reach out to other interested folks you can
+[![Gitter](https://badges.gitter.im/angulardart/community.svg)](https://gitter.im/angulardart/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
