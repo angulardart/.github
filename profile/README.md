@@ -6,6 +6,8 @@ At this time, we are not accepting new external issues or pull requests, however
 we will continue to monitor for high-severity security issues, which can be
 reported at https://dart.dev/security.
 
+Googlers: For more information on using AngularDart for Google projects, visit http://go/acx
+
 Thank you for
 [your support](https://github.com/angulardart/angular/issues/1976). It means a
 lot to us!
