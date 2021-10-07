@@ -1,6 +1,6 @@
 # An update on AngularDart
 
-The AngularDart project is now in maintenance mode, as we
+The AngularDart project is now in maintenance mode for users outside of Google, as we
 [announced in May 2021](https://medium.com/dartlang/angulardart-flutter-and-the-web-spring-update-f7f5b8b10001).
 At this time, we are not accepting new external issues or pull requests, however
 we will continue to monitor for high-severity security issues, which can be
