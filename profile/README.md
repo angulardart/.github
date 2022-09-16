@@ -1,19 +1,23 @@
-# An update on AngularDart
+# AngularDart development has transitioned to the `angulardart-community` project
 
-The AngularDart project is now in maintenance mode for users outside of Google, as we
-[announced in May 2021](https://medium.com/dartlang/angulardart-flutter-and-the-web-spring-update-f7f5b8b10001).
-At this time, we are not accepting new external issues or pull requests, however
-we will continue to monitor for high-severity security issues, which can be
-reported at https://dart.dev/security.
+The AngularDart team at Google has transitioned the maintenance of the
+AngularDart project to the [`angulardart-community` project](https://github.com/angulardart-community).
+We will no longer accept issues or pull requests on the current repo, which has
+been archived to avoid confusion.
 
-Googlers: For more information on using AngularDart for Google projects, visit http://go/acx
+The project was originally maintained by the AngularDart team at Google, but due
+to a shift to prioritize internal usage of AngularDart and increased emphasis on
+Flutter's web support, we
+[in 2021 asked for community contributors](https://medium.com/dartlang/angulardart-flutter-and-the-web-spring-update-f7f5b8b10001)
+that might be interested in taking over AngularDart. We're very happy that the
+angulardart-community has come forward to take over the maintenance of
+AngularDart.
 
-Thank you for
-[your support](https://github.com/angulardart/angular/issues/1976). It means a
-lot to us!
+For more details about the angulardart-community project, see 
+[their roadmap issue](https://github.com/angulardart-community/angular/issues/6).
 
-If you're excited to use Dart on the Web, we'd encourage you to look at
-[Flutter Web](https://flutter.dev/web).
+For developers excited to use Dart & Flutter for building new apps for the Web,
+we'd encourage you to look at [Flutter Web](https://flutter.dev/web).
 
-If you'd like to reach out to other interested folks you can
-[![Gitter](https://badges.gitter.im/angulardart/community.svg)](https://gitter.im/angulardart/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Thank you for [your support](https://github.com/angulardart/angular/issues/1976).
+It means a lot to us!
